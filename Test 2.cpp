@@ -6,4 +6,5 @@ int main(){
 	cin>> age;
 	int total= age + 5;
 	cout<< total;
+	return 0;
 }
