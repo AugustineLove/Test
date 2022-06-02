@@ -5,4 +5,5 @@ int main(){
 	cout<<"Enter your name: ";
 	cin >> name;
 	cout<< name;
+	return 0;
 }
